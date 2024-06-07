@@ -1,0 +1,37 @@
+body{
+    font-family: Arial,sans-serif ;
+    margin: 0;
+    padding: 0;
+
+}
+h1{
+    color: blue;
+}
+p{
+    color: gray;
+}
+image{
+    max-width: 100%;
+}
+.home{
+    background-image:url('home-background.jpg');
+}
+.login{
+    background-image: url('login-background.jpg');
+}
+.registration{
+    background-image: url('registration-background.jpg');
+}
+.services{
+    background-image: url('services-background.jpg');
+}
+form{
+    color: greenyellow;
+}
+.sin-up{
+    color:aqua;
+}
+button{
+color: brown;
+
+}
